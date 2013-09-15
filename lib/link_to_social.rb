@@ -1,0 +1,1 @@
+require 'link_to_social/railtie' if defined?(Rails)
