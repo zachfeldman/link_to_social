@@ -1,7 +1,5 @@
 # link_to_social
 
-
-## Description
 This gem adds a special link_to_social method to the Rails view helpers to easily make a regular link into a social sharing link.
 
 If you're unsure of what this means, try clicking on of these example links:
@@ -12,7 +10,7 @@ If you're unsure of what this means, try clicking on of these example links:
 
 ## Usage
 
-Add them gem to your Rails project's Gemfile, then bundle install to get started.
+Add the gem to your Rails project's Gemfile, then bundle install to get started.
 
 `gem 'link_to_social'`
 
