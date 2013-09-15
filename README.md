@@ -56,5 +56,4 @@ Pull requests welcome.
 * Zach Feldman [@zachfeldman](http://zfeldman.com)
 
 
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ed093654d3f4ac89d05750e3def34190 "githalytics.com")](http://githalytics.com/zachfeldman/rubypress)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a97e33716355e4d66ceff72b4e102dc3 "githalytics.com")](http://githalytics.com/zachfeldman/link_to_social)
